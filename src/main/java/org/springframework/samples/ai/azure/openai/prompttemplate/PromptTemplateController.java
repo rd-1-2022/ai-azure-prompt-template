@@ -1,4 +1,4 @@
-package org.springframework.samples.ai.openai.prompttemplate;
+package org.springframework.samples.ai.azure.openai.prompttemplate;
 
 import org.springframework.ai.client.AiClient;
 import org.springframework.ai.client.Generation;
