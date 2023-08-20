@@ -7,6 +7,8 @@ There is optional `message` parameter whose default value is "Tell me a joke".
 
 The response to the request is from the Azure OpenAI Service.
 
+Look at the section below on **prerequisites** before continuing
+
 ## Building and running
 
 ```
